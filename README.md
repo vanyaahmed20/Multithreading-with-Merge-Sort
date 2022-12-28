@@ -16,3 +16,5 @@ In this program we have taken the array from the user and sort it using multithr
 ![MAC1](https://user-images.githubusercontent.com/92653096/209850181-98f148c8-d709-489a-b512-e94d8087f406.PNG)
 
 ![MAC](https://user-images.githubusercontent.com/92653096/209850186-77ba7956-6c8c-48ee-b0a2-41d6f2e89432.PNG)
+
+# OUTPUT
